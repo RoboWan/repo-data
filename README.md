@@ -1,3 +1,3 @@
 ## About
 
-The aim of this repository is: to collect data
+The aim of this repository is: to collect metadata
